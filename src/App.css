@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+#btn{
+  background-color:rgb(6, 170, 116);
+  font-size: medium;
+
+  margin-top: 5px;
+} 
+.customnav{
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+  background-color: rgb(202, 237, 248);
+}
+
+
+
+.designrow{
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+
+/* .bckimg{
+  background-image: url("https://images.unsplash.com/photo-1541280910158-c4e14f9c94a3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80");
+  background-size: "cover";
+} */
+
